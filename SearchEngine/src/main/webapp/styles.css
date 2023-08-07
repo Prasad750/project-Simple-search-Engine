@@ -1,0 +1,39 @@
+button{
+    background-color: blue;
+    color: white;
+    border: 1px;
+    border-radius: 4px;
+    padding : 8px 16px;
+    margin : 4px 2px;
+    cursor: pointer;
+}
+
+input[type=text]{
+    width: 25%;
+    padding: 8px 16px;
+    border: 2px solid black;
+    border-radius: 16px
+}
+
+body.home{
+     background-color: black;
+     color : white;
+     text-align:center;
+     margin :18% 0%
+
+}
+
+body.search
+{
+     text-align:center;
+}
+
+.resultTable
+{
+    display:inline-block;
+}
+
+body.history
+{
+ text-align:center;
+}
